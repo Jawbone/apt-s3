@@ -1,3 +1,9 @@
+apt-transport-s3 (1.1.1~precise1) precise; urgency=low
+
+  * Packaged for Ubuntu 12.04.
+
+ -- Kyle Ambroff <ambroff@jawbone.com>  Thu, 18 Apr 2013 00:24:45 +0000
+
 apt-transport-s3 (1.1.1ubuntu2) precise; urgency=low
 
   * Modified for company needs
